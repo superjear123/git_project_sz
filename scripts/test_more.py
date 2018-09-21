@@ -8,7 +8,7 @@ class TestMore:
         assert 1
 
     def test_3g(self):
-        assert 1
+        assert 0
 
 
     #
